@@ -1,0 +1,1772 @@
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 0
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 2
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 3
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 4
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 5
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 6
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 7
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 8
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 9
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 10
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 11
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 12
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 13
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 14
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 15
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 16
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 17
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 18
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 19
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 20
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 21
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 22
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 23
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 24
+"../../../Engine/Content/EngineResources/Black.uasset" 25
+"../../../Engine/Content/EngineResources/Black.uexp" 26
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 27
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 28
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 29
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 30
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 31
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 32
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 33
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 34
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 35
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 36
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 37
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 38
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 39
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 40
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 41
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 42
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 43
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 44
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 45
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 46
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 47
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 48
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 49
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 50
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 51
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 52
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 53
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 54
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 55
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 56
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 57
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 58
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 59
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 60
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 61
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 62
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 63
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 64
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 65
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 66
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 67
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 68
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 69
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 70
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 71
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 72
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 73
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 74
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 75
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 76
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 77
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 78
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 79
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 80
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 81
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 82
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 83
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 84
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 85
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 86
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 87
+"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 88
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 89
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 90
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 91
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 92
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 93
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 94
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 95
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 96
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 97
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 98
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 99
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 100
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 101
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 102
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 103
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 104
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 105
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 106
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 107
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 108
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 109
+"../../../Engine/Content/BasicShapes/Cone.uasset" 110
+"../../../Engine/Content/BasicShapes/Cone.uexp" 111
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 112
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 113
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 114
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 115
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 116
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 117
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 118
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 119
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 120
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 121
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 122
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 123
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 130
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 131
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 132
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 133
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 134
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 135
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 136
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 137
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 138
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 139
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 140
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 141
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 142
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 143
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 144
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 145
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 146
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 149
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 151
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 152
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 153
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 154
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 155
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 156
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 157
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 158
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 159
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 160
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 161
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 162
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 163
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 164
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 165
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 166
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 167
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 168
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 169
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 170
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 171
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 172
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 173
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 174
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 175
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 176
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 177
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 178
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 179
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 180
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 181
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 182
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 183
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 184
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 185
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 186
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 187
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 188
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 191
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 192
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 193
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 194
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 195
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 196
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 197
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 198
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 199
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 200
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 201
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 203
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 204
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 205
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 207
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 208
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 211
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 213
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 214
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 215
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 216
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 217
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 218
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 219
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 220
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 221
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 222
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 223
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 224
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 225
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 226
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 227
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 228
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 229
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 230
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 231
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 232
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 233
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 234
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 235
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 236
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 237
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 238
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 239
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 240
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 241
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 243
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 246
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 247
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 248
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 249
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 250
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 251
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 252
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 253
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 254
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 255
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 256
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 258
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 259
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 260
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 263
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 264
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 265
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 266
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 267
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 268
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 269
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 270
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 271
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 273
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 274
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 275
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 276
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 279
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 280
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 281
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 282
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 283
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 284
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 285
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 286
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 287
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 288
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 289
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 290
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 291
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 292
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 293
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 294
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 295
+"../../../Engine/Content/EngineSounds/Master.uasset" 296
+"../../../Engine/Content/EngineSounds/Master.uexp" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 299
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 301
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 303
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 305
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 306
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 307
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 308
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 309
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 310
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 311
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 312
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 313
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 314
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 315
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 316
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 317
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 318
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 319
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 320
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 321
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 322
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 323
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 324
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 325
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 326
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 327
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 328
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 329
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 330
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 331
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 332
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 333
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 334
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 335
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 336
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 337
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 338
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 339
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 340
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 341
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 342
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 343
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 344
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 345
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 346
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 347
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 407
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 408
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 409
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 410
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 411
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 412
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 413
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 414
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 415
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 416
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 417
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 418
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 419
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 420
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 421
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 422
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 423
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 424
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 425
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 426
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 427
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 428
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 429
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 430
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 431
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 432
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 433
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 434
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 435
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 436
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 437
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 438
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 439
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 440
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 441
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 445
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 446
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 447
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 448
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 449
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 452
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 453
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 454
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 455
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 456
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 457
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 458
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 459
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 460
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 461
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 462
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 463
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 464
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 465
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 466
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 467
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 468
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 469
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 470
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 471
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 472
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 473
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uasset" 474
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uexp" 475
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 476
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 477
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 478
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 479
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 480
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 481
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 482
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 483
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 484
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 485
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 486
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 487
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 488
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 489
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 490
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 491
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 492
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 493
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 494
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 496
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 497
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uasset" 498
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uexp" 499
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uasset" 500
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uexp" 501
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 502
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 503
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 504
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 505
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 506
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 507
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 508
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 509
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 510
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 511
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 512
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 513
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 514
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 515
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 516
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 517
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 518
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 519
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 520
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 521
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 522
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 523
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 525
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 526
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 527
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 528
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 529
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 530
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 531
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 532
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 533
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 534
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 535
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 536
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 537
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 538
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 539
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uasset" 540
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uexp" 541
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uasset" 542
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uexp" 543
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 544
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 545
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 546
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 547
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uasset" 548
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uexp" 549
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uasset" 550
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uexp" 551
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uasset" 552
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uexp" 553
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uasset" 554
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uexp" 555
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uasset" 556
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uexp" 557
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 558
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 559
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uasset" 560
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uexp" 561
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset" 562
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uexp" 563
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uasset" 564
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uexp" 565
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset" 566
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uexp" 567
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 568
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 569
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 570
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uexp" 571
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 572
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 573
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset" 574
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uexp" 575
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uasset" 576
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uexp" 577
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset" 578
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uexp" 579
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset" 580
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uexp" 581
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uasset" 582
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uexp" 583
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uasset" 584
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uexp" 585
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uasset" 586
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uexp" 587
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uasset" 588
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uexp" 589
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uasset" 590
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uexp" 591
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uasset" 592
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uexp" 593
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uasset" 594
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uexp" 595
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uasset" 596
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uexp" 597
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset" 598
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uexp" 599
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset" 600
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uexp" 601
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uasset" 602
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uexp" 603
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset" 604
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uexp" 605
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset" 606
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uexp" 607
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uasset" 608
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uexp" 609
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset" 610
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uexp" 611
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 612
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 613
+"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 614
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 615
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 616
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset" 617
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uexp" 618
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset" 619
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uexp" 620
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset" 621
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uexp" 622
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset" 623
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uexp" 624
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset" 625
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uexp" 626
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 627
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uexp" 628
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset" 629
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uexp" 630
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset" 631
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uexp" 632
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 633
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 634
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset" 635
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uexp" 636
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset" 637
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uexp" 638
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 639
+"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 640
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 641
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 642
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset" 643
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uexp" 644
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset" 645
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uexp" 646
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset" 647
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uexp" 648
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 649
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 650
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 651
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 652
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 653
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 654
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 655
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 656
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 657
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 658
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 659
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 660
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 661
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 662
+"../../../Engine/Content/Maps/Entry.uexp" 663
+"../../../Engine/Content/Maps/Entry.umap" 664
+"../../../Engine/Content/BasicShapes/Cube.uasset" 665
+"../../../Engine/Content/BasicShapes/Cube.uexp" 666
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 667
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 668
+"../../../Engine/Content/BasicShapes/Plane.uasset" 669
+"../../../Engine/Content/BasicShapes/Plane.uexp" 670
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_NormalDX.ubulk" 671
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_NormalDX.uasset" 672
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_NormalDX.uexp" 673
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_Color.ubulk" 674
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_Color.uasset" 675
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_Color.uexp" 676
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_Roughness.ubulk" 677
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_Roughness.uasset" 678
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/roof_tiles/RoofingTiles005_4K_Roughness.uexp" 679
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Roof.uasset" 680
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Roof.uexp" 681
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Planks021_4K_Color.ubulk" 682
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Planks021_4K_Color.uasset" 683
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Planks021_4K_Color.uexp" 684
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Wood.uasset" 685
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Wood.uexp" 686
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_Roughness.ubulk" 687
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_Roughness.uasset" 688
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_Roughness.uexp" 689
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_NormalGL.ubulk" 690
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_NormalGL.uasset" 691
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_NormalGL.uexp" 692
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_Color.ubulk" 693
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_Color.uasset" 694
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RoofingTiles005_4K_Color.uexp" 695
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Roof.uasset" 696
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Roof.uexp" 697
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_FrontRoof.uasset" 698
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_FrontRoof.uexp" 699
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_NormalDX.ubulk" 700
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_NormalDX.uasset" 701
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_NormalDX.uexp" 702
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_Color.ubulk" 703
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_Color.uasset" 704
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_Color.uexp" 705
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_AmbientOcclusion.ubulk" 706
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_AmbientOcclusion.uasset" 707
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_AmbientOcclusion.uexp" 708
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/physical/PHYS_echo.uasset" 709
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/physical/PHYS_echo.uexp" 710
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_Roughness.ubulk" 711
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_Roughness.uasset" 712
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/light_wood_planks/Planks021_4K_Roughness.uexp" 713
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/light_wood_lpanks.uasset" 714
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/light_wood_lpanks.uexp" 715
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_FrontRoof.uasset" 716
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_FrontRoof.uexp" 717
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/M_Wall.uasset" 718
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/M_Wall.uexp" 719
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/M_WindowWood.uasset" 720
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/M_WindowWood.uexp" 721
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Material.uasset" 722
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Material.uexp" 723
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/WALL_WINDOW_SIDE.uasset" 724
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/WALL_WINDOW_SIDE.uexp" 725
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_WALL_WINDOW_SIDE.uasset" 726
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_WALL_WINDOW_SIDE.uexp" 727
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Interfaces/INT_PoweredObject.uasset" 728
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Interfaces/INT_PoweredObject.uexp" 729
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 730
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 731
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 732
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 733
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 734
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 735
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Meshes/BaseMaterial.uasset" 736
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Meshes/BaseMaterial.uexp" 737
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 738
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uexp" 739
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 740
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uexp" 741
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 742
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uexp" 743
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/howling-wind-14892.ubulk" 744
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/howling-wind-14892.uasset" 745
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/howling-wind-14892.uexp" 746
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/sandy-beach-calm-waves-water-nature-sounds-8052.ubulk" 747
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/sandy-beach-calm-waves-water-nature-sounds-8052.uasset" 748
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/sandy-beach-calm-waves-water-nature-sounds-8052.uexp" 749
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/AMB_Outdoor.uasset" 750
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/AMB_Outdoor.uexp" 751
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilSetUSBs/WhiteFuture.uasset" 752
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilSetUSBs/WhiteFuture.uexp" 753
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Basic_Wall.uasset" 754
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Basic_Wall.uexp" 755
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Architecture/Wall_400x300.uasset" 756
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Architecture/Wall_400x300.uexp" 757
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/Wall_400x315_Blueprint.uasset" 758
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/Wall_400x315_Blueprint.uexp" 759
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_3_KEY_final.uasset" 760
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_3_KEY_final.uexp" 761
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_7_FORK.uasset" 762
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_7_FORK.uexp" 763
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/expander_hidden.uasset" 764
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/expander_hidden.uexp" 765
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_5_SPIKES.uasset" 766
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_5_SPIKES.uexp" 767
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_4_TOWER_1_final.uasset" 768
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_4_TOWER_1_final.uexp" 769
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_6_KRAKEN.uasset" 770
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_6_KRAKEN.uexp" 771
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_9_OBELISK_2.uasset" 772
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_9_OBELISK_2.uexp" 773
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_8_BUST.uasset" 774
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/STN_8_BUST.uexp" 775
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/expander_shown.uasset" 776
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/IMAGES/expander_shown.uexp" 777
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/Inventory/UI_PlayerInventory.uasset" 778
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/Inventory/UI_PlayerInventory.uexp" 779
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObject.uasset" 780
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObject.uexp" 781
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/white.uasset" 782
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/white.uexp" 783
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/balck.uasset" 784
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/balck.uexp" 785
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnitGeneric.uasset" 786
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnitGeneric.uexp" 787
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObjectGlowing.uasset" 788
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObjectGlowing.uexp" 789
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil3_OUTLINE.uasset" 790
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil3_OUTLINE.uexp" 791
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObjectPulsing.uasset" 792
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObjectPulsing.uexp" 793
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Enums/ENUM_PowerUnitStatus.uasset" 794
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Enums/ENUM_PowerUnitStatus.uexp" 795
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 796
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 797
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnitGeneric.uasset" 798
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnitGeneric.uexp" 799
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Enums/ENUM_ConditionType.uasset" 800
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Enums/ENUM_ConditionType.uexp" 801
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_BaseCondition.uasset" 802
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_BaseCondition.uexp" 803
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 804
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 805
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 806
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 807
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 808
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 809
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 810
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uexp" 811
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 812
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uexp" 813
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 814
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uexp" 815
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uasset" 816
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uexp" 817
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 818
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uexp" 819
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 820
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 821
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 822
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 823
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 824
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 825
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 826
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 827
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil_5_SPIKES_OUTER.uasset" 828
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil_5_SPIKES_OUTER.uexp" 829
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 830
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 831
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 832
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 833
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 834
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 835
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 836
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 837
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 838
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 839
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 840
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 841
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 842
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 843
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 844
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 845
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 846
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 847
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 848
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 849
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 850
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 851
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 852
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 853
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 854
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 855
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 856
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 857
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticVertexMode.uasset" 858
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticVertexMode.uexp" 859
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticSamplingMode.uasset" 860
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticSamplingMode.uexp" 861
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticTriangleMode.uasset" 862
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticTriangleMode.uexp" 863
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshPositionSamplingMode.uasset" 864
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshPositionSamplingMode.uexp" 865
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 866
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 867
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshTransforms.uasset" 868
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshTransforms.uexp" 869
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticSocketMode.uasset" 870
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/StaticMesh/ENiagara_StaticSocketMode.uexp" 871
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 872
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 873
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 874
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 875
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/FX/NS_StencilComplete.uasset" 876
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/FX/NS_StencilComplete.uexp" 877
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/UI_PlayerUI.uasset" 878
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/UI_PlayerUI.uexp" 879
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Components/BP_StencilProgression.uasset" 880
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Components/BP_StencilProgression.uexp" 881
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_1.ubulk" 882
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_1.uasset" 883
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_1.uexp" 884
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_2.ubulk" 885
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_2.uasset" 886
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_2.uexp" 887
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_3.ubulk" 888
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_3.uasset" 889
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_3.uexp" 890
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_4.ubulk" 891
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_4.uasset" 892
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/echo/echo_footstep_4.uexp" 893
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/FOOT_echo.uasset" 894
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/FOOT_echo.uexp" 895
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 896
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 897
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 898
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 899
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 900
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 901
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 902
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 903
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 904
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 905
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 906
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 907
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 908
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 909
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 910
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 911
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 912
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 913
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 914
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 915
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Textures/T_FPGun_N.uasset" 916
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Textures/T_FPGun_N.uexp" 917
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 918
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 919
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 920
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 921
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 922
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 923
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 924
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 925
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 926
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 927
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 928
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 929
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 930
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 931
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 932
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 933
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 934
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 935
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 936
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 937
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Textures/T_FPGun_M.uasset" 938
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Textures/T_FPGun_M.uexp" 939
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 940
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 941
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 942
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 943
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/M_FPGun.uasset" 944
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Materials/M_FPGun.uexp" 945
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Mesh/SK_FPGun.uasset" 946
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FPWeapon/Mesh/SK_FPGun.uexp" 947
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/BP_GameSave.uasset" 948
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/BP_GameSave.uexp" 949
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/BP_StencilDictionary.uasset" 950
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/BP_StencilDictionary.uexp" 951
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_COND_BaseBoolean.uasset" 952
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_COND_BaseBoolean.uexp" 953
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilComplete.uasset" 954
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilComplete.uexp" 955
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Enums/ENUM_GameState.uasset" 956
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Enums/ENUM_GameState.uexp" 957
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilLinetraceTriggerExact.uasset" 958
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilLinetraceTriggerExact.uexp" 959
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilLinetraceTriggerAlmost.uasset" 960
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilLinetraceTriggerAlmost.uexp" 961
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilTriggerExact.uasset" 962
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilTriggerExact.uexp" 963
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilTriggerAlmost.uasset" 964
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Triggers/BP_StencilTriggerAlmost.uexp" 965
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_TabletAnteanna.uasset" 966
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_TabletAnteanna.uexp" 967
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_TabletBase.uasset" 968
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_TabletBase.uexp" 969
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_TabletGrips.uasset" 970
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_TabletGrips.uexp" 971
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_BlackWire.uasset" 972
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/MAT_BlackWire.uexp" 973
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_combined.uasset" 974
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_combined.uexp" 975
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObjectFillIN.uasset" 976
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StencilObjectFillIN.uexp" 977
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_COND_BaseLookingAt.uasset" 978
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_COND_BaseLookingAt.uexp" 979
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil8/COND_Stencil8_LookingAt.uasset" 980
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil8/COND_Stencil8_LookingAt.uexp" 981
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_COND_BaseStandingOn.uasset" 982
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/BP_COND_BaseStandingOn.uexp" 983
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil8/COND_Stencil8_StandingOn.uasset" 984
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil8/COND_Stencil8_StandingOn.uexp" 985
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil8_BUST.uasset" 986
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil8_BUST.uexp" 987
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/BP_BaseStencil.uasset" 988
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/BP_BaseStencil.uexp" 989
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil8.uasset" 990
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil8.uexp" 991
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil9/BP_COND_Stencil9_LookAt.uasset" 992
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil9/BP_COND_Stencil9_LookAt.uexp" 993
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil9/BP_COND_Stencil9_StandingOn.uasset" 994
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil9/BP_COND_Stencil9_StandingOn.uexp" 995
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil_9_OBELISK_2.uasset" 996
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil_9_OBELISK_2.uexp" 997
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil9.uasset" 998
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil9.uexp" 999
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_Skeleton.uasset" 1000
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_Skeleton.uexp" 1001
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_PhysicsAsset.uasset" 1002
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_PhysicsAsset.uexp" 1003
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3.uasset" 1004
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3.uexp" 1005
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil1_KEY.uasset" 1006
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil1_KEY.uexp" 1007
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil3/COND_Stencil3_StandingOn.uasset" 1008
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil3/COND_Stencil3_StandingOn.uexp" 1009
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil3/COND_Stencil3_LookingAt.uasset" 1010
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil3/COND_Stencil3_LookingAt.uexp" 1011
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil3.uasset" 1012
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil3.uexp" 1013
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil4/COND_Stencl4_StandingOn.uasset" 1014
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil4/COND_Stencl4_StandingOn.uexp" 1015
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil4_OBELISK_1.uasset" 1016
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil4_OBELISK_1.uexp" 1017
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil4/COND_Stencil4_LookingAt.uasset" 1018
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil4/COND_Stencil4_LookingAt.uexp" 1019
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil4.uasset" 1020
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil4.uexp" 1021
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil6/COND_Stencil6_LookingAt.uasset" 1022
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil6/COND_Stencil6_LookingAt.uexp" 1023
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil6_KRAKEN.uasset" 1024
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil6_KRAKEN.uexp" 1025
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil6/COND_Stencil6_StandingOn.uasset" 1026
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil6/COND_Stencil6_StandingOn.uexp" 1027
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil6.uasset" 1028
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil6.uexp" 1029
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil1_OUTLINE.uasset" 1030
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil1_OUTLINE.uexp" 1031
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil1/COND_Stencil1_LookAt.uasset" 1032
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil1/COND_Stencil1_LookAt.uexp" 1033
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil1/COND_Stencil1StandingOn.uasset" 1034
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil1/COND_Stencil1StandingOn.uexp" 1035
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil1.uasset" 1036
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil1.uexp" 1037
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1038
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 1039
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 1040
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 1041
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_Anim_Tablet_EXP_Tablet_LiftUp_001.uasset" 1042
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_Anim_Tablet_EXP_Tablet_LiftUp_001.uexp" 1043
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil5/BP_COND_Stencil5_StandingOn.uasset" 1044
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil5/BP_COND_Stencil5_StandingOn.uexp" 1045
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil5/BP_COND_Stencil5_LookingAt.uasset" 1046
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil5/BP_COND_Stencil5_LookingAt.uexp" 1047
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil5.uasset" 1048
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil5.uexp" 1049
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil2/COND_Stencil2_StandingOn.uasset" 1050
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil2/COND_Stencil2_StandingOn.uexp" 1051
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil2/COND_Stencil2_LookAt.uasset" 1052
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil2/COND_Stencil2_LookAt.uexp" 1053
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil2_OUTLINE.uasset" 1054
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil2_OUTLINE.uexp" 1055
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil2.uasset" 1056
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil2.uexp" 1057
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil7/COND_Stencil7_StandingOn.uasset" 1058
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil7/COND_Stencil7_StandingOn.uexp" 1059
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil7/COND_Stencil7_Boolean.uasset" 1060
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil7/COND_Stencil7_Boolean.uexp" 1061
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil7/COND_Stencil7_LookingAt.uasset" 1062
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Conditions/Stencil7/COND_Stencil7_LookingAt.uexp" 1063
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil_7_FORK.uasset" 1064
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilMeshes/Stencil_7_FORK.uexp" 1065
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil7.uasset" 1066
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Stencils/StencilObjects/BP_Stencil7.uexp" 1067
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_Anim_Tablet_EXP_ANIM_COMB_PutDown.uasset" 1068
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilTablet_ANIM_final3_Anim_Tablet_EXP_ANIM_COMB_PutDown.uexp" 1069
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/BP_StencilTablet.uasset" 1070
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/BP_StencilTablet.uexp" 1071
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Splines/BP_PlayerMovementSpline.uasset" 1072
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Splines/BP_PlayerMovementSpline.uexp" 1073
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_1.ubulk" 1074
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_1.uasset" 1075
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_1.uexp" 1076
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_2.ubulk" 1077
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_2.uasset" 1078
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_2.uexp" 1079
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_3.ubulk" 1080
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_3.uasset" 1081
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_3.uexp" 1082
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_4.ubulk" 1083
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_4.uasset" 1084
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/footsteps/ground/ground_footstep_4.uexp" 1085
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/FOOT_ground.uasset" 1086
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/FOOT_ground.uexp" 1087
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Inventory/AC_Inventory.uasset" 1088
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Inventory/AC_Inventory.uexp" 1089
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1090
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 1091
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 1092
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1093
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 1094
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1095
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 1096
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 1097
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 1098
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 1099
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1100
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1101
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1102
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1103
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1104
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1105
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1106
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1107
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 1108
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1109
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 1110
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1111
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1112
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1113
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1114
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1115
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1116
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1117
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1118
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1119
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1120
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 1121
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 1122
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 1123
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 1124
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/DebugTraced.uasset" 1125
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/DebugTraced.uexp" 1126
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 1127
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 1128
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/Geometry/Meshes/CubeMaterial.uasset" 1129
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/Geometry/Meshes/CubeMaterial.uexp" 1130
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/Geometry/Meshes/1M_Cube.uasset" 1131
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/Geometry/Meshes/1M_Cube.uexp" 1132
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Interfaces/INT_Traceable.uasset" 1133
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Interfaces/INT_Traceable.uexp" 1134
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/BP_TraceableObject.uasset" 1135
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/BP_TraceableObject.uexp" 1136
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/BP_Cube1.uasset" 1137
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/BP_Cube1.uexp" 1138
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.ubulk" 1139
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 1140
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uexp" 1141
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1142
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 1143
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/black_metal.uasset" 1144
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/black_metal.uexp" 1145
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/barn_door_left.uasset" 1146
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/barn_door_left.uexp" 1147
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BarnDoorRight.uasset" 1148
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BarnDoorRight.uexp" 1149
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/M_WindowWood.uasset" 1150
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/M_WindowWood.uexp" 1151
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_AmbientOcclusion.ubulk" 1152
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_AmbientOcclusion.uasset" 1153
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_AmbientOcclusion.uexp" 1154
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_NormalDX.ubulk" 1155
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_NormalDX.uasset" 1156
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_NormalDX.uexp" 1157
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_Roughness.ubulk" 1158
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_Roughness.uasset" 1159
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_Roughness.uexp" 1160
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_Color.ubulk" 1161
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_Color.uasset" 1162
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/painted_bricks/PaintedBricks004_4K_Color.uexp" 1163
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_PaintedBirkcs.uasset" 1164
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_PaintedBirkcs.uexp" 1165
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/StencilImages/TriggerForSet1_Blueprint.uasset" 1166
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/StencilImages/TriggerForSet1_Blueprint.uexp" 1167
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_ambientOcclusion.ubulk" 1168
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_ambientOcclusion.uasset" 1169
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_ambientOcclusion.uexp" 1170
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_basecolor.ubulk" 1171
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_basecolor.uasset" 1172
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_basecolor.uexp" 1173
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_roughness.ubulk" 1174
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_roughness.uasset" 1175
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_roughness.uexp" 1176
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_normal.ubulk" 1177
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_normal.uasset" 1178
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/marble_white/Marble_White_006_normal.uexp" 1179
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/marble.uasset" 1180
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/marble.uexp" 1181
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/viking_hat_horn2.uasset" 1182
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/viking_hat_horn2.uexp" 1183
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Horn2.uasset" 1184
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Horn2.uexp" 1185
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Terrain/T_StylizedGrass_BC.ubulk" 1186
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Terrain/T_StylizedGrass_BC.uasset" 1187
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Terrain/T_StylizedGrass_BC.uexp" 1188
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StylizedGrass.uasset" 1189
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_StylizedGrass.uexp" 1190
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/GroundPieces/Material.uasset" 1191
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/GroundPieces/Material.uexp" 1192
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/GroundPieces/cliff.uasset" 1193
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/GroundPieces/cliff.uexp" 1194
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/terrain/GroundPieces/BP_Cliff.uasset" 1195
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/terrain/GroundPieces/BP_Cliff.uexp" 1196
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/M_WindowWood_001.uasset" 1197
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/M_WindowWood_001.uexp" 1198
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/M_Wall_001.uasset" 1199
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/M_Wall_001.uexp" 1200
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/WINDOW_roof_003.uasset" 1201
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/WINDOW_roof_003.uexp" 1202
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_Window.uasset" 1203
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_Window.uexp" 1204
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Material.uasset" 1205
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Material.uexp" 1206
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/ship-unfinishedMast.uasset" 1207
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/ship-unfinishedMast.uexp" 1208
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_SHIPMAST.uasset" 1209
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_SHIPMAST.uexp" 1210
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/dock_planks/Planks001_4K_Roughness.uasset" 1211
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/dock_planks/Planks001_4K_Roughness.uexp" 1212
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/dock_planks/Planks001_4K_NormalDX.uasset" 1213
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/dock_planks/Planks001_4K_NormalDX.uexp" 1214
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/dock_planks/Planks001_4K_Color.uasset" 1215
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/dock_planks/Planks001_4K_Color.uexp" 1216
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_DockPlanks.uasset" 1217
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_DockPlanks.uexp" 1218
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/Material.uasset" 1219
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/Material.uexp" 1220
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dock.uasset" 1221
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dock.uexp" 1222
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_Dock.uasset" 1223
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_Dock.uexp" 1224
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/quiet-ambience-in-a-small-church-sanctuary-23907.ubulk" 1225
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/quiet-ambience-in-a-small-church-sanctuary-23907.uasset" 1226
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/Sounds/quiet-ambience-in-a-small-church-sanctuary-23907.uexp" 1227
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/AMB_indoor.uasset" 1228
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Audio/cues/AMB_indoor.uexp" 1229
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/StencilImages/TriggerForSet2_Blueprint.uasset" 1230
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/StencilImages/TriggerForSet2_Blueprint.uexp" 1231
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/WALL_END.uasset" 1232
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/WALL_END.uexp" 1233
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BACK_WALL.uasset" 1234
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BACK_WALL.uexp" 1235
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Black_rubber.uasset" 1236
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Black_rubber.uexp" 1237
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/mETAL.uasset" 1238
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/mETAL.uexp" 1239
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/black.uasset" 1240
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/black.uexp" 1241
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockBoatLift.uasset" 1242
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockBoatLift.uexp" 1243
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_MacroVariation.uasset" 1244
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_MacroVariation.uexp" 1245
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1246
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1247
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatLift.uasset" 1248
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatLift.uexp" 1249
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/telescoping_table.uasset" 1250
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/telescoping_table.uexp" 1251
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_TelescopingTable.uasset" 1252
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_TelescopingTable.uexp" 1253
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/powerCord.uasset" 1254
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/powerCord.uexp" 1255
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerCords/SPL_PowerCord.uasset" 1256
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerCords/SPL_PowerCord.uexp" 1257
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Shapes/Shape_Plane.uasset" 1258
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Shapes/Shape_Plane.uexp" 1259
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/Material.uasset" 1260
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/Material.uexp" 1261
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_5_Spikes.uasset" 1262
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_5_Spikes.uexp" 1263
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_05_Spikes.uasset" 1264
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_05_Spikes.uexp" 1265
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_NormalBlend.uasset" 1266
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_NormalBlend.uexp" 1267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 1268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uexp" 1269
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_GerstnerWave.uasset" 1270
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_GerstnerWave.uexp" 1271
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_GerstnerWave_Combined.uasset" 1272
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_GerstnerWave_Combined.uexp" 1273
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialCollections/MPC_Ocean.uasset" 1274
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialCollections/MPC_Ocean.uexp" 1275
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_NoTessellation_Depth.uasset" 1276
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_NoTessellation_Depth.uexp" 1277
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_NoTessellation_Depth.uasset" 1278
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_NoTessellation_Depth.uexp" 1279
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Meshes/Water/SM_StilyzedWater_SideDepth_10x10.uasset" 1280
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Meshes/Water/SM_StilyzedWater_SideDepth_10x10.uexp" 1281
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1282
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1283
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1284
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1285
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1286
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1287
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1288
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1289
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1290
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1291
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1292
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/bust_FINAL.uasset" 1293
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/bust_FINAL.uexp" 1294
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BarnDoorSingle.uasset" 1295
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BarnDoorSingle.uexp" 1296
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1297
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1298
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1299
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1300
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1301
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1302
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1303
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1304
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1305
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1306
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1307
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1308
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1309
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1310
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1311
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1312
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1313
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1314
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1315
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1316
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1317
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1318
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 1319
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/BP_Sphere2.uasset" 1320
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/BP_Sphere2.uexp" 1321
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/low_stand.uasset" 1322
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/low_stand.uexp" 1323
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_LowStand.uasset" 1324
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_LowStand.uexp" 1325
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BarnDoorLeft.uasset" 1326
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_BarnDoorLeft.uexp" 1327
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1328
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1329
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1330
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1331
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1332
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1333
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1334
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1335
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 1336
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 1337
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/FX/NS_ObeliskBeam.uasset" 1338
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/FX/NS_ObeliskBeam.uexp" 1339
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/UI_GameOver.uasset" 1340
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/UI_GameOver.uexp" 1341
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1342
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1343
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/YARD/BP_EndGame.uasset" 1344
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/YARD/BP_EndGame.uexp" 1345
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Environment/HDRI/HDRI_CartoonWater.uasset" 1346
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Environment/HDRI/HDRI_CartoonWater.uexp" 1347
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_StylizedWater_N.ubulk" 1348
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_StylizedWater_N.uasset" 1349
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_StylizedWater_N.uexp" 1350
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_4WayMotionNormal.uasset" 1351
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_4WayMotionNormal.uexp" 1352
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_Seafoam_BC.ubulk" 1353
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_Seafoam_BC.uasset" 1354
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_Seafoam_BC.uexp" 1355
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_StylizedWater_03_N.ubulk" 1356
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_StylizedWater_03_N.uasset" 1357
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_StylizedWater_03_N.uexp" 1358
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_CartoonFoam_M.ubulk" 1359
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_CartoonFoam_M.uasset" 1360
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_CartoonFoam_M.uexp" 1361
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_4WayMotion.uasset" 1362
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_4WayMotion.uexp" 1363
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialCollections/MPC_LightData.uasset" 1364
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialCollections/MPC_LightData.uexp" 1365
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Mobile_Transparent.uasset" 1366
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Mobile_Transparent.uexp" 1367
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_Mobile_Transparent.uasset" 1368
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_Mobile_Transparent.uexp" 1369
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_4WayMotionNormal_TileSolved.uasset" 1370
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_4WayMotionNormal_TileSolved.uexp" 1371
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_WaterRipples_M.ubulk" 1372
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_WaterRipples_M.uasset" 1373
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Textures/Water/T_WaterRipples_M.uexp" 1374
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_Transparent_NonTessellated.uasset" 1375
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_Transparent_NonTessellated.uexp" 1376
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_Transparent_NonTessellated.uasset" 1377
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_Transparent_NonTessellated.uexp" 1378
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Meshes/Water/SM_StilyzedWater_10x10.uasset" 1379
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Meshes/Water/SM_StilyzedWater_10x10.uexp" 1380
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_NonTransparent_NonTessellated.uasset" 1381
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_NonTransparent_NonTessellated.uexp" 1382
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_NonTransparent_NonTessellated.uasset" 1383
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_NonTransparent_NonTessellated.uexp" 1384
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Data/OceanType.uasset" 1385
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Data/OceanType.uexp" 1386
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_NonTransparent_NonTessellated.uasset" 1387
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_NonTransparent_NonTessellated.uexp" 1388
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_NonTransparent_NonTessellated.uasset" 1389
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_NonTransparent_NonTessellated.uexp" 1390
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Mobile_NonTransparent.uasset" 1391
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Mobile_NonTransparent.uexp" 1392
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_Mobile_NonTransparent.uasset" 1393
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_Mobile_NonTransparent.uexp" 1394
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_Transparent_NonTessellated.uasset" 1395
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_Transparent_NonTessellated.uexp" 1396
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_Transparent_NonTessellated.uasset" 1397
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_Transparent_NonTessellated.uexp" 1398
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Meshes/Water/SM_StilyzedWater_Depth_10x10.uasset" 1399
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Meshes/Water/SM_StilyzedWater_Depth_10x10.uexp" 1400
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Blueprints/CartoonWaterBlueprints/BP_CartoonWater_Ocean.uasset" 1401
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Blueprints/CartoonWaterBlueprints/BP_CartoonWater_Ocean.uexp" 1402
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/horn_stand.uasset" 1403
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/horn_stand.uexp" 1404
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Metal_tools.uasset" 1405
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Metal_tools.uexp" 1406
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_Horn_stnad.uasset" 1407
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_Horn_stnad.uexp" 1408
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/terrain/grasses/grass_trans.uasset" 1409
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/terrain/grasses/grass_trans.uexp" 1410
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Grass.uasset" 1411
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Grass.uexp" 1412
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/grass.uasset" 1413
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/grass.uexp" 1414
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/Material.uasset" 1415
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/Material.uexp" 1416
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/ingot.uasset" 1417
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/ingot.uexp" 1418
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_ingot.uasset" 1419
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_ingot.uexp" 1420
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1421
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1422
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1423
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1424
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1425
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1426
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1427
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1428
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/dock/key.uasset" 1429
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/dock/key.uexp" 1430
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/Dock/BP_key.uasset" 1431
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/Dock/BP_key.uexp" 1432
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_sharedassets/Grass_LayerInfo.uasset" 1433
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_sharedassets/Grass_LayerInfo.uexp" 1434
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_wedge_WIDEST.uasset" 1435
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_wedge_WIDEST.uexp" 1436
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge_widest.uasset" 1437
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge_widest.uexp" 1438
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_Color.ubulk" 1439
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_Color.uasset" 1440
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_Color.uexp" 1441
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_NormalGL.ubulk" 1442
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_NormalGL.uasset" 1443
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_NormalGL.uexp" 1444
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_Roughness.ubulk" 1445
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_Roughness.uasset" 1446
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Planks021_4K_Roughness.uexp" 1447
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/mat.uasset" 1448
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/mat.uexp" 1449
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/plank.uasset" 1450
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/plank.uexp" 1451
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_plank.uasset" 1452
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_plank.uexp" 1453
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_sharedassets/Dirt_LayerInfo.uasset" 1454
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_sharedassets/Dirt_LayerInfo.uexp" 1455
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Side_Roof.uasset" 1456
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Side_Roof.uexp" 1457
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_ROOF.uasset" 1458
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_ROOF.uexp" 1459
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1460
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Basic_Floor.uexp" 1461
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset" 1462
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Architecture/Floor_400x400.uexp" 1463
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1464
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1465
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1466
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1467
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1468
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/kraken_FINAL.uasset" 1469
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/kraken_FINAL.uexp" 1470
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Kraken.uasset" 1471
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Kraken.uexp" 1472
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RAFTER.uasset" 1473
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/RAFTER.uexp" 1474
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_RAFTER.uasset" 1475
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_RAFTER.uexp" 1476
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockCrossBeam.uasset" 1477
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockCrossBeam.uexp" 1478
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHouseCrossBeam.uasset" 1479
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHouseCrossBeam.uexp" 1480
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_GerstnerWave_Combined_River.uasset" 1481
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialFunctions/MF_GerstnerWave_Combined_River.uexp" 1482
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialCollections/MPC_Lake.uasset" 1483
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/MaterialCollections/MPC_Lake.uexp" 1484
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_UNLIT_NonTransparent_NonTessellated.uasset" 1485
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_UNLIT_NonTransparent_NonTessellated.uexp" 1486
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/wedge_WIDE.uasset" 1487
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/wedge_WIDE.uexp" 1488
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge_wide.uasset" 1489
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge_wide.uexp" 1490
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/ship-unfinishedRailing.uasset" 1491
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/ship-unfinishedRailing.uexp" 1492
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_SHIPRAILING.uasset" 1493
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_SHIPRAILING.uexp" 1494
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1495
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 1496
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_spike.uasset" 1497
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_spike.uexp" 1498
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/rock_spike.uasset" 1499
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/rock_spike.uexp" 1500
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/LotusWide.uasset" 1501
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/LotusWide.uexp" 1502
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_LotusWide.uasset" 1503
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_LotusWide.uexp" 1504
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockHouseRoof.uasset" 1505
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockHouseRoof.uexp" 1506
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHouseRoof.uasset" 1507
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHouseRoof.uexp" 1508
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/GroundPieces/dock_cliff.uasset" 1509
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Terrain/GroundPieces/dock_cliff.uexp" 1510
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/terrain/GroundPieces/BP_Dock_Cliff.uasset" 1511
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/terrain/GroundPieces/BP_Dock_Cliff.uexp" 1512
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/PaintedBricks004_4K_NormalGL.ubulk" 1513
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/PaintedBricks004_4K_NormalGL.uasset" 1514
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/PaintedBricks004_4K_NormalGL.uexp" 1515
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/PaintedBricks004_4K_Color.ubulk" 1516
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/PaintedBricks004_4K_Color.uasset" 1517
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/PaintedBricks004_4K_Color.uexp" 1518
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Material.uasset" 1519
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/Material.uexp" 1520
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/hangbar.uasset" 1521
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/hangbar.uexp" 1522
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_HangBar.uasset" 1523
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_HangBar.uexp" 1524
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/LotusNarrow.uasset" 1525
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/LotusNarrow.uexp" 1526
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_LotusNarrow.uasset" 1527
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_LotusNarrow.uexp" 1528
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_wedge_teeth.uasset" 1529
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_wedge_teeth.uexp" 1530
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge_teeth.uasset" 1531
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge_teeth.uexp" 1532
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit3_KEY.uasset" 1533
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit3_KEY.uexp" 1534
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Black_metal.uasset" 1535
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Black_metal.uexp" 1536
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_03_KEY.uasset" 1537
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_03_KEY.uexp" 1538
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1539
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1540
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1541
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1542
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1543
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1544
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1545
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1546
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Grey_metal.uasset" 1547
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Grey_metal.uexp" 1548
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Safety_yellow.uasset" 1549
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Safety_yellow.uexp" 1550
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/viking_hat_lamp.uasset" 1551
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/viking_hat_lamp.uexp" 1552
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Lamp.uasset" 1553
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Lamp.uexp" 1554
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/M_WindowLedge.uasset" 1555
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/M_WindowLedge.uexp" 1556
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/WALL_YARD_SIDE.uasset" 1557
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/WALL_YARD_SIDE.uexp" 1558
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_WALL_YARD_SIDE.uasset" 1559
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_WALL_YARD_SIDE.uexp" 1560
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 1561
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1562
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 1563
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 1564
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1565
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 1566
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 1567
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1568
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_RockMesh_N.uexp" 1569
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 1570
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1571
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_RockMesh_M.uexp" 1572
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/Materials/M_Rock.uasset" 1573
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/Materials/M_Rock.uexp" 1574
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilSetUSBs/DarkerGrey.uasset" 1575
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/StencilSetUSBs/DarkerGrey.uexp" 1576
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Material_001.uasset" 1577
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/Material_001.uexp" 1578
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/bust_only_Cylinder_002.uasset" 1579
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/bust_only_Cylinder_002.uexp" 1580
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_BUST.uasset" 1581
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_BUST.uexp" 1582
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnint6_KRAKEN.uasset" 1583
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnint6_KRAKEN.uexp" 1584
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_06_Kraken.uasset" 1585
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_06_Kraken.uexp" 1586
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/MetalFork.uasset" 1587
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/MetalFork.uexp" 1588
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_MetalFork.uasset" 1589
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_MetalFork.uexp" 1590
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/table.uasset" 1591
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/table.uexp" 1592
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_table.uasset" 1593
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_table.uexp" 1594
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockHouse.uasset" 1595
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockHouse.uexp" 1596
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHouse.uasset" 1597
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHouse.uexp" 1598
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Floor.uasset" 1599
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Floor.uexp" 1600
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_BP_Floor.uasset" 1601
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_BP_Floor.uexp" 1602
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/viking_hat_horn1.uasset" 1603
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/viking_hat_horn1.uexp" 1604
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Horn1.uasset" 1605
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Horn1.uexp" 1606
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_07_Fork.uasset" 1607
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_07_Fork.uexp" 1608
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_07_Fork.uasset" 1609
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_07_Fork.uexp" 1610
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/LotusMedium.uasset" 1611
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/LotusMedium.uexp" 1612
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_LotusMedium.uasset" 1613
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_LotusMedium.uexp" 1614
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_sideRoofRight.uasset" 1615
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_sideRoofRight.uexp" 1616
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BP_BB_RoofRight.uasset" 1617
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BP_BB_RoofRight.uexp" 1618
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Material_001.uasset" 1619
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Material_001.uexp" 1620
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/top_door_rail.uasset" 1621
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/top_door_rail.uexp" 1622
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_DoorTopRail.uasset" 1623
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BP_DoorTopRail.uexp" 1624
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Stairs.uasset" 1625
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Stairs.uexp" 1626
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_Stairs.uasset" 1627
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_Stairs.uexp" 1628
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/AccWindowLeft.uasset" 1629
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/AccWindowLeft.uexp" 1630
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/AccWindowRight.uasset" 1631
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/AccWindowRight.uexp" 1632
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/AccordianWindowLeft.uasset" 1633
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/AccordianWindowLeft.uexp" 1634
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/PaintedBricks004_4K_Color.ubulk" 1635
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/PaintedBricks004_4K_Color.uasset" 1636
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/PaintedBricks004_4K_Color.uexp" 1637
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/PaintedBricks004_4K_NormalGL.ubulk" 1638
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/PaintedBricks004_4K_NormalGL.uasset" 1639
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/PaintedBricks004_4K_NormalGL.uexp" 1640
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Stone.uasset" 1641
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/Stone.uexp" 1642
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_frontRoom.uasset" 1643
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_frontRoom.uexp" 1644
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_FrontRoom.uasset" 1645
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_FrontRoom.uexp" 1646
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalBase.uasset" 1647
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalBase.uexp" 1648
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle_Base.uasset" 1649
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle_Base.uexp" 1650
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Yard/Obelisk/BP_Base.uasset" 1651
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Yard/Obelisk/BP_Base.uexp" 1652
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/pOWERuNIT_8_bUST_V2.uasset" 1653
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/pOWERuNIT_8_bUST_V2.uexp" 1654
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_08_v2_BUST.uasset" 1655
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_08_v2_BUST.uexp" 1656
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/asphalt/Asphalt007_4K_NormalDX.ubulk" 1657
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/asphalt/Asphalt007_4K_NormalDX.uasset" 1658
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/asphalt/Asphalt007_4K_NormalDX.uexp" 1659
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/WhiteStoneGlowing.uasset" 1660
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/WhiteStoneGlowing.uexp" 1661
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/WhiteStone.uasset" 1662
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/WhiteStone.uexp" 1663
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle.uasset" 1664
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle.uexp" 1665
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/WhiteStone.uasset" 1666
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/WhiteStone.uexp" 1667
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/Yard/BP_FinalPuzzle.uasset" 1668
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/Yard/BP_FinalPuzzle.uexp" 1669
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_4_Obelisk1.uasset" 1670
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_4_Obelisk1.uexp" 1671
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_04_Oblesisk1.uasset" 1672
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_04_Oblesisk1.uexp" 1673
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/wedger.uasset" 1674
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/wedger.uexp" 1675
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge.uasset" 1676
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/wedge.uexp" 1677
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Round2_UpperRoof.uasset" 1678
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Round2_UpperRoof.uexp" 1679
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_UpperRoof.uasset" 1680
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_UpperRoof.uexp" 1681
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/METAL.uasset" 1682
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/METAL.uexp" 1683
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/wood.uasset" 1684
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/wood.uexp" 1685
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_hammer.uasset" 1686
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/rock_hammer.uexp" 1687
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/rock_hammer.uasset" 1688
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/rock_hammer.uexp" 1689
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1690
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1691
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1692
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Landscape.uasset" 1693
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_Landscape.uexp" 1694
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_09_OBELISK_2.uasset" 1695
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Powerunits/PowerUnit_09_OBELISK_2.uexp" 1696
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_09_OBELISK_2.uasset" 1697
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/PowerUnits/BP_PowerUnit_09_OBELISK_2.uexp" 1698
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/SM_Rock.uasset" 1699
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/SM_Rock.uexp" 1700
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/shelf.uasset" 1701
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/misc_objects/sculpture_studio/shelf.uexp" 1702
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_shelf.uasset" 1703
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/MISC/BP_shelf.uexp" 1704
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1705
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1706
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1707
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1708
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1709
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Bush_N.ubulk" 1710
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Bush_N.uasset" 1711
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Bush_N.uexp" 1712
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Bush_D.ubulk" 1713
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Bush_D.uasset" 1714
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Textures/T_Bush_D.uexp" 1715
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/Materials/M_Bush.uasset" 1716
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/Materials/M_Bush.uexp" 1717
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/SM_Bush.uasset" 1718
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/StarterContent/Props/SM_Bush.uexp" 1719
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_sideRoofLeft.uasset" 1720
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_sideRoofLeft.uexp" 1721
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BP_BB_RoofLeft.uasset" 1722
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BP_BB_RoofLeft.uexp" 1723
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Round2.uasset" 1724
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/sculpture_studio/BB_Round2.uexp" 1725
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_Round2.uasset" 1726
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/sculpture_studio/BigBarn/BB_Round2.uexp" 1727
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle/PipeMaterial.uasset" 1728
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle/PipeMaterial.uexp" 1729
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle/Pipe_1_lowest.uasset" 1730
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/FinalPuzzle/Pipe_1_lowest.uexp" 1731
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/Yard/BP_Pipe_1_lowest.uasset" 1732
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/Yard/BP_Pipe_1_lowest.uexp" 1733
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockPillar.uasset" 1734
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/Buildings/dock/dockPillar.uexp" 1735
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHousePillar.uasset" 1736
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Buildings/dock/BP_BoatHousePillar.uexp" 1737
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_BuiltData.uexp" 1738
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_BuiltData.ubulk" 1739
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_BuiltData.uasset" 1740
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap_BuiltData.uptnl" 1741
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_Roughness.ubulk" 1742
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_Roughness.uasset" 1743
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_Roughness.uexp" 1744
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_NormalDX.ubulk" 1745
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_NormalDX.uasset" 1746
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_NormalDX.uexp" 1747
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_Color.ubulk" 1748
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_Color.uasset" 1749
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/textures/metal_galvanized/Metal037_4K_Color.uexp" 1750
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_MetalGalvanized.uasset" 1751
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Materials/MAT_MetalGalvanized.uexp" 1752
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/ship.uasset" 1753
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Meshes/ArtSculptures/ship.uexp" 1754
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Ship.uasset" 1755
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/Objects/Traceable/ArtSculptures/BP_Ship.uexp" 1756
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap.uexp" 1757
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap.ubulk" 1758
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/StencilWorldMap.umap" 1759
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 1760
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPerson/Textures/FirstPersonCrosshair.uexp" 1761
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1762
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uexp" 1763
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 1764
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 1765
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/MainMenuMap_BuiltData.uasset" 1766
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/MainMenuMap_BuiltData.uexp" 1767
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/UI_MainMenu.uasset" 1768
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/_main/UI/UI_MainMenu.uexp" 1769
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/MainMenuMap.uexp" 1770
+"C:/Users/clarkhuey/Documents/Unreal Projects/Stencil 5.0 5.1/Content/FirstPersonBP/Maps/MainMenuMap.umap" 1771
